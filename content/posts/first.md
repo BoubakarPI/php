@@ -4,7 +4,7 @@ date: 2024-03-23T14:29:05Z
 draft: false
 cover:
     image: ./images/me.png
-    alt: "First cover image"
+    alt: "Ma tête"
     captions: "First cover"
 ---
 
